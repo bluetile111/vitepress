@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as i,af as t}from"./chunks/framework.BReMVcxg.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"video.md","filePath":"video.md"}'),d={name:"video.md"};function s(r,e,n,l,h,c){return i(),o("div",null,e[0]||(e[0]=[t("",11)]))}const b=a(d,[["render",s]]);export{m as __pageData,b as default};

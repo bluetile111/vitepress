@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,af as o}from"./chunks/framework.BReMVcxg.js";const m=JSON.parse('{"title":"青瓦VPN教程中心","description":"","frontmatter":{},"headers":[],"relativePath":"教程导航.md","filePath":"教程导航.md"}'),r={name:"教程导航.md"};function c(n,t,p,_,i,l){return s(),e("div",null,t[0]||(t[0]=[o("",5)]))}const u=a(r,[["render",c]]);export{m as __pageData,u as default};
